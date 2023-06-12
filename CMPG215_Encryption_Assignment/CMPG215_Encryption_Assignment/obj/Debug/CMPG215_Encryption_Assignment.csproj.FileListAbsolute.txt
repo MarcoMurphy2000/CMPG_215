@@ -1,0 +1,40 @@
+C:\Users\Grand_pa\Documents\NWU\CMPG-215\ENCRYPTION ASSIGNMENT\C# version\CMPG215_Encryption_Assignment\bin\Debug\CMPG215_Encryption_Assignment.exe.config
+C:\Users\Grand_pa\Documents\NWU\CMPG-215\ENCRYPTION ASSIGNMENT\C# version\CMPG215_Encryption_Assignment\bin\Debug\CMPG215_Encryption_Assignment.exe
+C:\Users\Grand_pa\Documents\NWU\CMPG-215\ENCRYPTION ASSIGNMENT\C# version\CMPG215_Encryption_Assignment\bin\Debug\CMPG215_Encryption_Assignment.pdb
+C:\Users\Grand_pa\Documents\NWU\CMPG-215\ENCRYPTION ASSIGNMENT\C# version\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.csprojAssemblyReference.cache
+C:\Users\Grand_pa\Documents\NWU\CMPG-215\ENCRYPTION ASSIGNMENT\C# version\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.EncryptionForm.resources
+C:\Users\Grand_pa\Documents\NWU\CMPG-215\ENCRYPTION ASSIGNMENT\C# version\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.Properties.Resources.resources
+C:\Users\Grand_pa\Documents\NWU\CMPG-215\ENCRYPTION ASSIGNMENT\C# version\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.csproj.GenerateResource.cache
+C:\Users\Grand_pa\Documents\NWU\CMPG-215\ENCRYPTION ASSIGNMENT\C# version\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Grand_pa\Documents\NWU\CMPG-215\ENCRYPTION ASSIGNMENT\C# version\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.exe
+C:\Users\Grand_pa\Documents\NWU\CMPG-215\ENCRYPTION ASSIGNMENT\C# version\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.pdb
+C:\Users\WinUsr\Downloads\New folder\CMPG215_Encryption_Assignment\bin\Debug\CMPG215_Encryption_Assignment.exe.config
+C:\Users\WinUsr\Downloads\New folder\CMPG215_Encryption_Assignment\bin\Debug\CMPG215_Encryption_Assignment.exe
+C:\Users\WinUsr\Downloads\New folder\CMPG215_Encryption_Assignment\bin\Debug\CMPG215_Encryption_Assignment.pdb
+C:\Users\WinUsr\Downloads\New folder\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.csprojAssemblyReference.cache
+C:\Users\WinUsr\Downloads\New folder\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.EncryptionForm.resources
+C:\Users\WinUsr\Downloads\New folder\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.Properties.Resources.resources
+C:\Users\WinUsr\Downloads\New folder\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.csproj.GenerateResource.cache
+C:\Users\WinUsr\Downloads\New folder\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\WinUsr\Downloads\New folder\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.exe
+C:\Users\WinUsr\Downloads\New folder\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.pdb
+D:\University\CMPG215_Encryption_Assignment\bin\Debug\CMPG215_Encryption_Assignment.exe.config
+D:\University\CMPG215_Encryption_Assignment\bin\Debug\CMPG215_Encryption_Assignment.exe
+D:\University\CMPG215_Encryption_Assignment\bin\Debug\CMPG215_Encryption_Assignment.pdb
+D:\University\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.csprojAssemblyReference.cache
+D:\University\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.EncryptionForm.resources
+D:\University\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.Properties.Resources.resources
+D:\University\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.csproj.GenerateResource.cache
+D:\University\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.csproj.CoreCompileInputs.cache
+D:\University\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.exe
+D:\University\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.pdb
+C:\Users\Grand_pa\Documents\NWU\CMPG-215\ENCRYPTION ASSIGNMENT\v5.0\CMPG215_Encryption_Assignment\bin\Debug\CMPG215_Encryption_Assignment.exe.config
+C:\Users\Grand_pa\Documents\NWU\CMPG-215\ENCRYPTION ASSIGNMENT\v5.0\CMPG215_Encryption_Assignment\bin\Debug\CMPG215_Encryption_Assignment.exe
+C:\Users\Grand_pa\Documents\NWU\CMPG-215\ENCRYPTION ASSIGNMENT\v5.0\CMPG215_Encryption_Assignment\bin\Debug\CMPG215_Encryption_Assignment.pdb
+C:\Users\Grand_pa\Documents\NWU\CMPG-215\ENCRYPTION ASSIGNMENT\v5.0\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.csprojAssemblyReference.cache
+C:\Users\Grand_pa\Documents\NWU\CMPG-215\ENCRYPTION ASSIGNMENT\v5.0\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.EncryptionForm.resources
+C:\Users\Grand_pa\Documents\NWU\CMPG-215\ENCRYPTION ASSIGNMENT\v5.0\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.Properties.Resources.resources
+C:\Users\Grand_pa\Documents\NWU\CMPG-215\ENCRYPTION ASSIGNMENT\v5.0\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.csproj.GenerateResource.cache
+C:\Users\Grand_pa\Documents\NWU\CMPG-215\ENCRYPTION ASSIGNMENT\v5.0\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Grand_pa\Documents\NWU\CMPG-215\ENCRYPTION ASSIGNMENT\v5.0\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.exe
+C:\Users\Grand_pa\Documents\NWU\CMPG-215\ENCRYPTION ASSIGNMENT\v5.0\CMPG215_Encryption_Assignment\obj\Debug\CMPG215_Encryption_Assignment.pdb

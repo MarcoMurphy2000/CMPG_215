@@ -1,0 +1,17 @@
+int L1 = pLeft;
+            int R1 = pRight;
+
+            // Round 1
+            int R2 = (key) ^ L1;
+            int L2 = R1;
+
+            // Round 2
+            int R3 = (key) ^ L2;
+            int L3 = R2;
+
+            // Final
+            int R4 = L3;
+            int L4 = R3;
+
+            int[] returnArray = { L4, R4 };
+            return returnArray;
